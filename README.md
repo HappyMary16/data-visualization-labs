@@ -1,4 +1,4 @@
-# Data Visualization
+# Data Visualization Labs
 
 Here you  can find my solutions for all labs from 'Data Visualization' course.
 
